@@ -1,0 +1,9 @@
+$primaryBtn: rgb(94, 48, 221);
+$textColor: White;
+
+@import "./tets.component.header";
+
+.contact button {
+  background: $primaryBtn;
+
+}
